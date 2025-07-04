@@ -4,7 +4,7 @@ This code example demonstrates the integration of the XENSIV&trade; PAS CO2 sens
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-pmg1b1-usbpd-sink-pasco2-temp-sensor)
 
-[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA2MjciLCJTcGVjIE51bWJlciI6IjAwMi00MDYyNyIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBzaW5rIFBBUyBDTzIgYW5kIHRlbXBlcmF0dXJlIHNlbnNvciIsInJpZCI6Impvc2hpYmgiLCJEb2MgdmVyc2lvbiI6IjEuMC4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IldJUkVEIiwiRG9jIEZhbWlseSI6IlRZUEUtQyJ9)
+[Provide feedback on this code example.](https://cypress.co1.qualtrics.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA2MjciLCJTcGVjIE51bWJlciI6IjAwMi00MDYyNyIsIkRvYyBUaXRsZSI6IkVaLVBEJnRyYWRlOyBQTUcxQjEgTUNVOiBVU0JQRCBzaW5rIFBBUyBDTzIgYW5kIHRlbXBlcmF0dXJlIHNlbnNvciIsInJpZCI6Impvc2hpYmgiLCJEb2MgdmVyc2lvbiI6IjEuMS4wIiwiRG9jIExhbmd1YWdlIjoiRW5nbGlzaCIsIkRvYyBEaXZpc2lvbiI6Ik1DRCIsIkRvYyBCVSI6IldJUkVEIiwiRG9jIEZhbWlseSI6IlRZUEUtQyJ9)
 
 
 ## Requirements
@@ -447,6 +447,7 @@ Document title: *CE240627* – *EZ-PD&trade; PMG1B1 MCU: USBPD sink PAS CO2 and 
  Version | Description of change
  ------- | ---------------------
  1.0.0   |  New code example
+ 1.1.0   |  Locked to cat-2 PDL 2.15.0
 <br>
 
 All referenced product or service names and trademarks are the property of their respective owners.
